@@ -1,0 +1,64 @@
+.button {
+  border-radius: 100px;
+  font-family: 'Permanent Marker', cursive;
+}
+
+h1, h2, h3{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.section {
+  padding: 8rem 0 7rem;
+  text-align: center;
+}
+.section-heading{
+  margin-bottom: 1.2rem;
+}
+
+.title{
+  background-color: #f7f7f7 !important;
+}
+
+.hero {
+  background-color: #fff;
+  padding: auto;
+  height: auto;
+}
+.hero-heading {
+  font-size: 3.0rem;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom:35px;
+}
+.hero-heading:after {
+	content: "";
+	height: 3px;
+	width: 100px;
+  margin: 0.8em auto 0 auto;
+  margin-bottom: 5px;
+	display: block;
+	background: #11dfc7
+}
+.hero p{
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  font-size:16px;
+}
+.pick {
+  max-width: 80%;
+  margin: auto ;
+  right: 5rem;
+  max-height: 510px;
+}
+
+.monkey {
+  background-color:#f7f7f7;
+}
+.monkey .pick{
+  max-width: 90%;
+  margin-top:80px;
+  padding-left:50px;
+}
+
+.wolf{
+  background-color:#f0f0f0;
+}
